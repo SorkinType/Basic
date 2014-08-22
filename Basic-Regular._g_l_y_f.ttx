@@ -6,12 +6,12 @@
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
 
-    <TTGlyph name=".notdef" xMin="82" yMin="-540" xMax="1447" yMax="2020">
+    <TTGlyph name=".notdef" xMin="82" yMin="-428" xMax="1447" yMax="1714">
       <contour>
-        <pt x="82" y="2020" on="1"/>
-        <pt x="1447" y="2020" on="1"/>
-        <pt x="1447" y="-540" on="1"/>
-        <pt x="82" y="-540" on="1"/>
+        <pt x="82" y="1714" on="1"/>
+        <pt x="1447" y="1714" on="1"/>
+        <pt x="1447" y="-428" on="1"/>
+        <pt x="82" y="-428" on="1"/>
       </contour>
       <contour>
         <pt x="368" y="79" on="1"/>
