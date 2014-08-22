@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="881"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="155" y="169" type="curve"/>
+      <point x="365" y="169" type="line"/>
+      <point x="344" y="-334" type="line"/>
+      <point x="549" y="-334" type="line"/>
+      <point x="517" y="169" type="line"/>
+      <point x="703" y="169" type="line"/>
+      <point x="703" y="169"/>
+      <point x="731" y="221"/>
+      <point x="731" y="283" type="curve" smooth="yes"/>
+      <point x="731" y="294"/>
+      <point x="729" y="311"/>
+      <point x="726" y="334" type="curve"/>
+      <point x="520" y="334" type="line"/>
+      <point x="549" y="574" type="line"/>
+      <point x="529" y="849" type="line"/>
+      <point x="703" y="849" type="line"/>
+      <point x="703" y="849"/>
+      <point x="731" y="902"/>
+      <point x="731" y="963" type="curve" smooth="yes"/>
+      <point x="731" y="974"/>
+      <point x="729" y="992"/>
+      <point x="726" y="1014" type="curve"/>
+      <point x="529" y="1014" type="line"/>
+      <point x="549" y="1517" type="line"/>
+      <point x="334" y="1517" type="line"/>
+      <point x="354" y="1014" type="line"/>
+      <point x="155" y="1014" type="line"/>
+      <point x="151" y="983"/>
+      <point x="150" y="956"/>
+      <point x="150" y="932" type="curve" smooth="yes"/>
+      <point x="150" y="885"/>
+      <point x="155" y="849"/>
+      <point x="155" y="849" type="curve"/>
+      <point x="354" y="849" type="line"/>
+      <point x="333" y="570" type="line"/>
+      <point x="362" y="334" type="line"/>
+      <point x="155" y="334" type="line"/>
+      <point x="151" y="302"/>
+      <point x="150" y="275"/>
+      <point x="150" y="252" type="curve" smooth="yes"/>
+      <point x="150" y="205"/>
+      <point x="155" y="169"/>
+    </contour>
+  </outline>
+</glyph>

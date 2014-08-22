@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="963"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="487" y="1713" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="487" y="-157" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="588" y="1190" type="line"/>
+      <point x="726" y="1190"/>
+      <point x="897" y="1185"/>
+      <point x="919" y="1182" type="curve"/>
+      <point x="931" y="1219"/>
+      <point x="935" y="1267"/>
+      <point x="935" y="1294" type="curve" smooth="yes"/>
+      <point x="935" y="1324"/>
+      <point x="930" y="1358"/>
+      <point x="930" y="1358" type="curve"/>
+      <point x="40" y="1358" type="line"/>
+      <point x="31" y="1316"/>
+      <point x="28" y="1281"/>
+      <point x="28" y="1257" type="curve" smooth="yes"/>
+      <point x="28" y="1220"/>
+      <point x="34" y="1181"/>
+      <point x="34" y="1181" type="curve"/>
+      <point x="34" y="1181"/>
+      <point x="162" y="1189"/>
+      <point x="362" y="1190" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

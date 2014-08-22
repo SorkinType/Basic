@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1688"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="946" y="267" type="line"/>
+      <point x="946" y="267"/>
+      <point x="942" y="203"/>
+      <point x="1003" y="165" type="curve"/>
+      <point x="1305" y="165" type="line"/>
+      <point x="1305" y="0" type="line"/>
+      <point x="1470" y="0" type="line"/>
+      <point x="1470" y="165" type="line"/>
+      <point x="1566" y="165" type="line"/>
+      <point x="1590" y="211"/>
+      <point x="1583" y="281"/>
+      <point x="1583" y="281" type="curve"/>
+      <point x="1470" y="281" type="line"/>
+      <point x="1470" y="512" type="line"/>
+      <point x="1470" y="512"/>
+      <point x="1357" y="488"/>
+      <point x="1305" y="445" type="curve"/>
+      <point x="1305" y="281" type="line"/>
+      <point x="1129" y="281" type="line"/>
+      <point x="1246" y="489"/>
+      <point x="1381" y="695"/>
+      <point x="1381" y="695" type="curve"/>
+      <point x="1379" y="710" type="line"/>
+      <point x="1354" y="739"/>
+      <point x="1236" y="773"/>
+      <point x="1236" y="773" type="curve"/>
+    </contour>
+    <component base="fraction" xOffset="279"/>
+    <component base="three.superior" xOffset="-251" yOffset="-126"/>
+  </outline>
+</glyph>

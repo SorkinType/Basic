@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="1255"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="664" y="1713" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="687" y="-157" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="543" y="0" type="line" smooth="yes"/>
+      <point x="950" y="0"/>
+      <point x="1203" y="236"/>
+      <point x="1203" y="692" type="curve" smooth="yes"/>
+      <point x="1203" y="1148"/>
+      <point x="972" y="1368"/>
+      <point x="557" y="1368" type="curve" smooth="yes"/>
+      <point x="327" y="1368"/>
+      <point x="158" y="1357"/>
+      <point x="158" y="1357" type="curve"/>
+    </contour>
+    <contour>
+      <point x="384" y="175" type="line"/>
+      <point x="384" y="1188" type="line"/>
+      <point x="384" y="1188"/>
+      <point x="441" y="1194"/>
+      <point x="577" y="1194" type="curve" smooth="yes"/>
+      <point x="824" y="1194"/>
+      <point x="972" y="1021"/>
+      <point x="972" y="688" type="curve" smooth="yes"/>
+      <point x="972" y="400"/>
+      <point x="824" y="175"/>
+      <point x="577" y="175" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

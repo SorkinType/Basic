@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="521"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="260" y="1713" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="260" y="-157" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="338" y="-157" type="move" name="og"/>
+    </contour>
+    <contour>
+      <point x="256" y="1195" type="curve" smooth="yes"/>
+      <point x="331" y="1195"/>
+      <point x="393" y="1251"/>
+      <point x="393" y="1320" type="curve" smooth="yes"/>
+      <point x="393" y="1391"/>
+      <point x="331" y="1446"/>
+      <point x="256" y="1446" type="curve" smooth="yes"/>
+      <point x="182" y="1446"/>
+      <point x="120" y="1391"/>
+      <point x="120" y="1320" type="curve" smooth="yes"/>
+      <point x="120" y="1251"/>
+      <point x="182" y="1195"/>
+    </contour>
+    <contour>
+      <point x="141" y="172" type="line" smooth="yes"/>
+      <point x="141" y="49"/>
+      <point x="217" y="0"/>
+      <point x="349" y="0" type="curve"/>
+      <point x="349" y="1022" type="line"/>
+      <point x="141" y="1022" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="168" type="line"/>
+      <point x="251" y="131" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="126" type="line"/>
+    </contour>
+  </outline>
+</glyph>
