@@ -20,6 +20,12 @@ at sorkineben@gmail.com
 
 ChangeLog
 
+21 Aug 2014 (Eben Sorkin) Basic v1.004
+- Adjusted the number shapes and spacing. Numbers are also now fully cap height.
+-G, lower case l caron and d caron adjusted
+- Merged l and i shapes
+- Mastered Font from Fontlab VBF to UFO and TTF
+
 21 Aug 2014 (Eben Sorkin) Basic v1.003
 - Adjusted the files further to work optimally with TTFA hinting.
 - Mastered Font from Fontlab VBF to UFO and TTF

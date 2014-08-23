@@ -288,6 +288,8 @@
 	<string>Z_dotaccent.glif</string>
 	<key>_459</key>
 	<string>_459.glif</string>
+	<key>_462</key>
+	<string>_462.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>aacute</key>
@@ -798,6 +800,8 @@
 	<string>uni0162.glif</string>
 	<key>uni0163</key>
 	<string>uni0163.glif</string>
+	<key>uni018F</key>
+	<string>uni018F_.glif</string>
 	<key>uni01C4</key>
 	<string>uni01C_4.glif</string>
 	<key>uni01C5</key>
@@ -830,6 +834,8 @@
 	<string>uni021A_.glif</string>
 	<key>uni021B</key>
 	<string>uni021B_.glif</string>
+	<key>uni0259</key>
+	<string>uni0259.glif</string>
 	<key>uni03BC</key>
 	<string>uni03B_C_.glif</string>
 	<key>uni1E02</key>

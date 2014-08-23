@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
+<glyph name="_462" format="1">
   <advance width="483"/>
-  <unicode hex="006C"/>
   <outline>
-    <contour>
-      <point x="240" y="1713" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="240" y="-157" type="move" name="btm"/>
-    </contour>
     <contour>
       <point x="124" y="172" type="line" smooth="yes"/>
       <point x="124" y="49"/>
       <point x="199" y="0"/>
       <point x="331" y="0" type="curve"/>
-      <point x="331" y="2" type="line"/>
+      <point x="331" y="1439" type="line"/>
+      <point x="124" y="1439" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="168" type="line"/>
+      <point x="234" y="131" type="line"/>
       <point x="333" y="0" type="line"/>
       <point x="390" y="0" type="line"/>
       <point x="390" y="126" type="line"/>
-      <point x="331" y="168" type="line"/>
-      <point x="331" y="1439" type="line"/>
-      <point x="124" y="1439" type="line"/>
     </contour>
   </outline>
 </glyph>

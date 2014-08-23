@@ -7,8 +7,7 @@
 	<key>capHeight</key>
 	<integer>1358</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Name "Basic".</string>
+	<string>Copyright (c) 2011-2014, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Basic'</string>
 	<key>descender</key>
 	<integer>-511</integer>
 	<key>familyName</key>
@@ -30,7 +29,7 @@ with Reserved Font Name "Basic".</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Basic Regular</string>
 	<key>openTypeNameDescription</key>
-	<string>Basic is a low contrast san serif text face. Basic mixes familair forms with a hint of novelty. It is is easy to read and is slightly elegant. Basic can be used from small sizes to larger display settings.</string>
+	<string>Basic is a low contrast san serif text face. Basic mixes familiar forms with a hint of novelty. It is is easy to read and is slightly elegant. Basic can be used from small sizes to larger display settings.</string>
 	<key>openTypeNameDesigner</key>
 	<string>Magnus Gaarde</string>
 	<key>openTypeNameDesignerURL</key>
@@ -50,7 +49,7 @@ with Reserved Font Name "Basic".</string>
 	<key>openTypeNameUniqueID</key>
 	<string>MagnusGaarde: Basic Regular: 2011</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.003</string>
+	<string>Version 1.004</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -130,6 +129,8 @@ with Reserved Font Name "Basic".</string>
 	<string>STC</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>2066</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -205,7 +206,7 @@ with Reserved Font Name "Basic".</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>1022</integer>
 	<key>year</key>

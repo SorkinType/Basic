@@ -9,10 +9,10 @@
       <point x="764" y="-157" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="82" y="-540" type="line"/>
-      <point x="1447" y="-540" type="line"/>
-      <point x="1447" y="2020" type="line"/>
-      <point x="82" y="2020" type="line"/>
+      <point x="82" y="-428" type="line"/>
+      <point x="1447" y="-428" type="line"/>
+      <point x="1447" y="1714" type="line"/>
+      <point x="82" y="1714" type="line"/>
     </contour>
     <contour>
       <point x="237" y="209" type="line"/>
