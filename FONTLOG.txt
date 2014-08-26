@@ -20,6 +20,12 @@ at sorkineben@gmail.com
 
 ChangeLog
 
+26 Aug 2014 (Eben Sorkin) Basic v1.005
+- Added more fractions, double arrows, capital Esset (uni1E9E)
+- Fixed Croation Dbar (Dcroat)
+- Added finacial symbols colonmonetary/lira/uni20A6/peseta/dong/won/franc/uni20AA/uni20B1/uni20B2/uni20B5/uni20B9/uni20BA
+- Mastered Font from Fontlab VBF to UFO and TTF
+
 21 Aug 2014 (Eben Sorkin) Basic v1.004
 - Adjusted the number shapes and spacing. Numbers are also now fully cap height.
 -G, lower case l caron and d caron adjusted

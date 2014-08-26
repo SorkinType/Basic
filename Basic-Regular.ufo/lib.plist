@@ -159,7 +159,6 @@
 		<string>AE</string>
 		<string>currency</string>
 		<string>logicalnot</string>
-		<string>uni00AD</string>
 		<string>degree</string>
 		<string>asciicircum</string>
 		<string>ampersand</string>
@@ -260,7 +259,7 @@
 		<string>Iogonek</string>
 		<string>Eogonek</string>
 		<string>Aogonek</string>
-		<string>Dcroat</string>
+		<string>Dcroat.001</string>
 		<string>Amacron</string>
 		<string>Cacute</string>
 		<string>Ccircumflex</string>
@@ -467,6 +466,33 @@
 		<string>uni018F</string>
 		<string>uni0259</string>
 		<string>_462</string>
+		<string>Dcroat</string>
+		<string>uni20AA</string>
+		<string>lira</string>
+		<string>uni20A6</string>
+		<string>peseta</string>
+		<string>colonmonetary</string>
+		<string>franc</string>
+		<string>uni20B2</string>
+		<string>uni20B5</string>
+		<string>uni20B9</string>
+		<string>uni20B1</string>
+		<string>dong.001</string>
+		<string>dong</string>
+		<string>uni00AD</string>
+		<string>onethird</string>
+		<string>twothirds</string>
+		<string>quotereversed</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
+		<string>uni2215</string>
+		<string>uni1E9E</string>
+		<string>uni02C9</string>
+		<string>arrowboth.001</string>
+		<string>arrowboth</string>
+		<string>arrowupdn</string>
 	</array>
 </dict>
 </plist>
