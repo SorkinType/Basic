@@ -4,9 +4,6 @@
   <unicode hex="F6C3"/>
   <outline>
     <contour>
-      <point x="256" y="-157" type="move" name="_btm"/>
-    </contour>
-    <contour>
       <point x="164" y="-106" type="curve"/>
       <point x="154" y="-309"/>
       <point x="45" y="-437"/>
@@ -20,6 +17,9 @@
       <point x="388" y="-182" type="curve"/>
       <point x="325" y="-101"/>
       <point x="168" y="-106"/>
+    </contour>
+    <contour>
+      <point x="256" y="-157" type="move" name="_btm"/>
     </contour>
   </outline>
 </glyph>

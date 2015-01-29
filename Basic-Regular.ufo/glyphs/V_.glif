@@ -4,12 +4,6 @@
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="544" y="1713" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="544" y="-157" type="move" name="btm"/>
-    </contour>
-    <contour>
       <point x="368" y="0" type="line"/>
       <point x="703" y="0" type="line"/>
       <point x="1108" y="1358" type="line"/>
@@ -20,5 +14,30 @@
       <point x="203" y="1358" type="line"/>
       <point x="-30" y="1358" type="line"/>
     </contour>
+    <contour>
+      <point x="544" y="1713" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="544" y="-157" type="move" name="btm"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>542</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>

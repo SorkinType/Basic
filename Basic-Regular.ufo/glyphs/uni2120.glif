@@ -65,4 +65,23 @@
       <point x="106" y="553"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>495</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>
