@@ -1,0 +1,45 @@
+{
+glyphname = iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-158,-13);
+ref = acute;
+}
+);
+width = 521;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-158,-13);
+ref = acute;
+}
+);
+width = 521;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-158,-13);
+ref = acute;
+}
+);
+width = 521;
+}
+);
+unicode = 237;
+}

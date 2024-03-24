@@ -1,0 +1,75 @@
+{
+glyphname = divide;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1313,510,l),
+(1313,685,l),
+(203,685,l),
+(203,510,l)
+);
+},
+{
+pos = (565,13);
+ref = period;
+},
+{
+pos = (565,926);
+ref = period;
+}
+);
+width = 1535;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1313,510,l),
+(1313,685,l),
+(203,685,l),
+(203,510,l)
+);
+},
+{
+pos = (565,13);
+ref = period;
+},
+{
+pos = (565,926);
+ref = period;
+}
+);
+width = 1535;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1313,510,l),
+(1313,685,l),
+(203,685,l),
+(203,510,l)
+);
+},
+{
+pos = (565,13);
+ref = period;
+},
+{
+pos = (565,926);
+ref = period;
+}
+);
+width = 1535;
+}
+);
+unicode = 247;
+}

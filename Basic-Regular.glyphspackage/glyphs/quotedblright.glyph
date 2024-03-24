@@ -1,0 +1,54 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (865,2533);
+ref = quoteleft;
+},
+{
+angle = 180;
+pos = (485,2534);
+ref = quoteleft;
+}
+);
+width = 885;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (865,2533);
+ref = quoteleft;
+},
+{
+angle = 180;
+pos = (485,2534);
+ref = quoteleft;
+}
+);
+width = 885;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (865,2533);
+ref = quoteleft;
+},
+{
+angle = 180;
+pos = (485,2534);
+ref = quoteleft;
+}
+);
+width = 885;
+}
+);
+unicode = 8221;
+}

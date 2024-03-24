@@ -1,0 +1,48 @@
+{
+glyphname = approxequal;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (91,140);
+ref = asciitilde;
+},
+{
+pos = (91,-330);
+ref = asciitilde;
+}
+);
+width = 1362;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (91,140);
+ref = asciitilde;
+},
+{
+pos = (91,-330);
+ref = asciitilde;
+}
+);
+width = 1362;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (91,140);
+ref = asciitilde;
+},
+{
+pos = (91,-330);
+ref = asciitilde;
+}
+);
+width = 1362;
+}
+);
+unicode = 8776;
+}

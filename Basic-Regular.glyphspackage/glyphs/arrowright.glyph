@@ -1,0 +1,39 @@
+{
+glyphname = arrowright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1536,0);
+ref = arrowleft;
+scale = (-0.9999,1);
+}
+);
+width = 1530;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (1536,0);
+ref = arrowleft;
+scale = (-0.9999,1);
+}
+);
+width = 1530;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (1536,0);
+ref = arrowleft;
+scale = (-0.9999,1);
+}
+);
+width = 1530;
+}
+);
+unicode = 8594;
+}

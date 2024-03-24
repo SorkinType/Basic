@@ -1,0 +1,1306 @@
+{
+.appVersion = "3249";
+.formatVersion = 3;
+customParameters = (
+{
+name = macintoshFONDFamilyID;
+value = 128;
+},
+{
+name = macintoshFONDName;
+value = Basic;
+},
+{
+name = openTypeHeadFlags;
+value = (
+);
+},
+{
+name = descriptions;
+value = "Basic is a low contrast san serif text face. Basic mixes familiar forms with a hint of novelty. It is is easy to read and is slightly elegant. Basic can be used from small sizes to larger display settings.";
+},
+{
+name = licenses;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = sampleTexts;
+value = "";
+},
+{
+name = uniqueID;
+value = "MagnusGaarde: Basic Regular: 2011";
+},
+{
+name = versionString;
+value = "Version 1.006";
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1250",
+"1254",
+"1257",
+"bit 29"
+);
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+0,
+0
+);
+},
+{
+name = panose;
+value = (
+2,
+1,
+5,
+3,
+4,
+5,
+0,
+2,
+0,
+4
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+3,
+4,
+5,
+7,
+29,
+31,
+33,
+35,
+36,
+37,
+38,
+45,
+60,
+62
+);
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = blueFuzz;
+value = 1;
+},
+{
+name = blueScale;
+value = 0.039625;
+},
+{
+name = blueShift;
+value = 7;
+},
+{
+name = postscriptForceBold;
+value = 0;
+},
+{
+name = postscriptIsFixedPitch;
+value = 0;
+},
+{
+name = postscriptUniqueID;
+value = -1;
+},
+{
+name = trademarks;
+value = "Basic is a trademark of Sorkin Type Co.";
+},
+{
+name = year;
+value = 2011;
+}
+);
+date = "2011-12-23 22:17:23 +0000";
+familyName = Basic;
+fontMaster = (
+{
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 26";
+width = 53;
+},
+{
+horizontal = 0;
+name = v00;
+width = 174;
+},
+{
+horizontal = 0;
+name = "X: 182";
+width = 182;
+},
+{
+horizontal = 0;
+name = "X: 98";
+width = 201;
+},
+{
+horizontal = 0;
+name = "X: 215";
+width = 215;
+},
+{
+horizontal = 0;
+name = "X: 227";
+width = 227;
+},
+{
+horizontal = 0;
+name = "X: 235";
+width = 235;
+},
+{
+horizontal = 1;
+name = "Y: 25";
+width = 51;
+},
+{
+horizontal = 1;
+name = "Y: 57";
+width = 117;
+},
+{
+horizontal = 1;
+name = "Y: 70";
+width = 143;
+},
+{
+horizontal = 1;
+name = "Y: 75";
+width = 154;
+},
+{
+horizontal = 1;
+name = "Y: 174";
+width = 174;
+},
+{
+horizontal = 1;
+name = "Y: 194";
+width = 194;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1372;
+size = 21;
+},
+{
+name = "t: 0";
+pos = 1055;
+size = 20;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -20;
+},
+{
+name = "b: 1";
+pos = -399;
+size = -21;
+}
+);
+},
+{
+name = typoAscender;
+value = 2066;
+},
+{
+name = typoDescender;
+value = -511;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2066;
+},
+{
+name = hheaDescender;
+value = -511;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2066;
+},
+{
+name = winDescent;
+value = 511;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 2066;
+},
+{
+over = 26;
+pos = 1358;
+},
+{
+over = 28;
+pos = 1022;
+},
+{
+over = -26;
+},
+{
+pos = -511;
+},
+{
+over = -26;
+},
+{
+over = -80;
+pos = -428;
+}
+);
+name = Light;
+stemValues = (
+227,
+182,
+174,
+194,
+182,
+194,
+182,
+194,
+182,
+194
+);
+userData = {
+GSOffsetHorizontal = -35;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = 0;
+};
+},
+{
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 26";
+width = 53;
+},
+{
+horizontal = 0;
+name = v00;
+width = 174;
+},
+{
+horizontal = 0;
+name = "X: 182";
+width = 182;
+},
+{
+horizontal = 0;
+name = "X: 98";
+width = 201;
+},
+{
+horizontal = 0;
+name = "X: 215";
+width = 215;
+},
+{
+horizontal = 0;
+name = "X: 227";
+width = 227;
+},
+{
+horizontal = 0;
+name = "X: 235";
+width = 235;
+},
+{
+horizontal = 1;
+name = "Y: 25";
+width = 51;
+},
+{
+horizontal = 1;
+name = "Y: 57";
+width = 117;
+},
+{
+horizontal = 1;
+name = "Y: 70";
+width = 143;
+},
+{
+horizontal = 1;
+name = "Y: 75";
+width = 154;
+},
+{
+horizontal = 1;
+name = "Y: 174";
+width = 174;
+},
+{
+horizontal = 1;
+name = "Y: 194";
+width = 194;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1372;
+size = 21;
+},
+{
+name = "t: 0";
+pos = 1055;
+size = 20;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -20;
+},
+{
+name = "b: 1";
+pos = -399;
+size = -21;
+}
+);
+},
+{
+name = typoAscender;
+value = 2066;
+},
+{
+name = typoDescender;
+value = -511;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2066;
+},
+{
+name = hheaDescender;
+value = -511;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2066;
+},
+{
+name = winDescent;
+value = 511;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+id = m002;
+metricValues = (
+{
+pos = 2066;
+},
+{
+over = 26;
+pos = 1358;
+},
+{
+over = 28;
+pos = 1022;
+},
+{
+over = -26;
+},
+{
+pos = -511;
+},
+{
+over = -26;
+},
+{
+over = -80;
+pos = -428;
+}
+);
+name = Regular;
+stemValues = (
+227,
+182,
+174,
+194,
+182,
+194,
+182,
+194,
+182,
+194
+);
+},
+{
+customParameters = (
+{
+name = TTFStems;
+value = (
+{
+horizontal = 0;
+name = "X: 26";
+width = 53;
+},
+{
+horizontal = 0;
+name = v00;
+width = 174;
+},
+{
+horizontal = 0;
+name = "X: 182";
+width = 182;
+},
+{
+horizontal = 0;
+name = "X: 98";
+width = 201;
+},
+{
+horizontal = 0;
+name = "X: 215";
+width = 215;
+},
+{
+horizontal = 0;
+name = "X: 227";
+width = 227;
+},
+{
+horizontal = 0;
+name = "X: 235";
+width = 235;
+},
+{
+horizontal = 1;
+name = "Y: 25";
+width = 51;
+},
+{
+horizontal = 1;
+name = "Y: 57";
+width = 117;
+},
+{
+horizontal = 1;
+name = "Y: 70";
+width = 143;
+},
+{
+horizontal = 1;
+name = "Y: 75";
+width = 154;
+},
+{
+horizontal = 1;
+name = "Y: 174";
+width = 174;
+},
+{
+horizontal = 1;
+name = "Y: 194";
+width = 194;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = "t: 1";
+pos = 1372;
+size = 21;
+},
+{
+name = "t: 0";
+pos = 1055;
+size = 20;
+},
+{
+name = "b: 0";
+pos = 0;
+size = -20;
+},
+{
+name = "b: 1";
+pos = -399;
+size = -21;
+}
+);
+},
+{
+name = typoAscender;
+value = 2066;
+},
+{
+name = typoDescender;
+value = -511;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2066;
+},
+{
+name = hheaDescender;
+value = -511;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2066;
+},
+{
+name = winDescent;
+value = 511;
+},
+{
+name = strikeoutPosition;
+value = 512;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1434;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1331;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1434;
+},
+{
+name = superscriptYOffset;
+value = 977;
+},
+{
+name = superscriptYSize;
+value = 1331;
+}
+);
+id = m003;
+metricValues = (
+{
+pos = 2066;
+},
+{
+over = 26;
+pos = 1358;
+},
+{
+over = 28;
+pos = 1022;
+},
+{
+over = -26;
+},
+{
+pos = -511;
+},
+{
+over = -26;
+},
+{
+over = -80;
+pos = -428;
+}
+);
+name = Black;
+stemValues = (
+227,
+182,
+174,
+194,
+182,
+194,
+182,
+194,
+182,
+194
+);
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptWeightName;
+value = Normal;
+}
+);
+instanceInterpolations = {
+m001 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = "Basic-Regular";
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Basic Regular";
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = Basic;
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2011-2014, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Basic'";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Basic is a low contrast san serif text face. Basic mixes familiar forms with a hint of novelty. It is is easy to read and is slightly elegant. Basic can be used from small sizes to larger display settings.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Magnus Gaarde";
+}
+);
+},
+{
+key = designerURL;
+value = "http://skriftklog.dk";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Magnus Gaarde";
+}
+);
+},
+{
+key = manufacturerURL;
+value = www.sorkintype.com;
+},
+{
+key = sampleTexts;
+values = (
+{
+language = dflt;
+value = "";
+}
+);
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Basic is a trademark of Sorkin Type Co.";
+}
+);
+},
+{
+key = uniqueID;
+value = "MagnusGaarde: Basic Regular: 2011";
+},
+{
+key = vendorID;
+value = STC;
+},
+{
+key = versionString;
+value = "Version 1.006";
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
+};
+stems = (
+{
+name = vStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+},
+{
+horizontal = 1;
+name = hStem0;
+}
+);
+unitsPerEm = 2048;
+userData = {
+UFO.lib = {
+com.fontlab.v2.tth = {
+stems = {
+"X: 182" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"25" = 3;
+"37" = 4;
+"51" = 5;
+"62" = 6;
+};
+width = 182;
+};
+"X: 215" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"25" = 3;
+"37" = 4;
+"43" = 5;
+"53" = 6;
+};
+width = 215;
+};
+"X: 227" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"25" = 3;
+"37" = 4;
+"43" = 5;
+"50" = 6;
+};
+width = 227;
+};
+"X: 235" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"25" = 3;
+"37" = 4;
+"43" = 5;
+"48" = 6;
+};
+width = 235;
+};
+"X: 26" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"138" = 4;
+"177" = 5;
+"212" = 6;
+"59" = 2;
+"99" = 3;
+};
+width = 53;
+};
+"X: 98" = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"37" = 4;
+"51" = 5;
+"57" = 6;
+};
+width = 201;
+};
+"Y: 174" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"37" = 4;
+"51" = 5;
+"65" = 6;
+};
+width = 174;
+};
+"Y: 194" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"18" = 2;
+"25" = 3;
+"37" = 4;
+"43" = 5;
+"59" = 6;
+};
+width = 194;
+};
+"Y: 25" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"138" = 4;
+"177" = 5;
+"220" = 6;
+"59" = 2;
+"99" = 3;
+};
+width = 51;
+};
+"Y: 57" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"62" = 4;
+"79" = 5;
+"97" = 6;
+};
+width = 117;
+};
+"Y: 70" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"49" = 4;
+"63" = 5;
+"79" = 6;
+};
+width = 143;
+};
+"Y: 75" = {
+horizontal = 1;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"49" = 4;
+"63" = 5;
+"74" = 6;
+};
+width = 154;
+};
+v00 = {
+horizontal = 0;
+round = {
+"0" = 1;
+"18" = 2;
+"33" = 3;
+"37" = 4;
+"51" = 5;
+"65" = 6;
+};
+width = 174;
+};
+};
+zones = {
+"b: 0" = {
+position = 0;
+top = 0;
+width = 20;
+};
+"b: 1" = {
+position = -399;
+top = 0;
+width = 21;
+};
+"t: 0" = {
+position = 1055;
+top = 1;
+width = 20;
+};
+"t: 1" = {
+position = 1372;
+top = 1;
+width = 21;
+};
+};
+};
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -205;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -195;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 18;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 0;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 13;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 485;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 680;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 549;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 569;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -80;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -508;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -508;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 156;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1325;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = 1714;
+},
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+x = 0;
+y = -282;
+},
+{
+angle = 135;
+isGlobal = 1;
+magnetic = 5;
+x = 1930;
+y = 0;
+}
+);
+};
+UFOFormat = 2;
+};
+versionMajor = 1;
+versionMinor = 6;
+}

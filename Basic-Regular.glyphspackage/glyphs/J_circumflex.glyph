@@ -1,0 +1,45 @@
+{
+glyphname = Jcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-3,0);
+ref = circumflex.cap;
+}
+);
+width = 633;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-3,0);
+ref = circumflex.cap;
+}
+);
+width = 633;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (-3,0);
+ref = circumflex.cap;
+}
+);
+width = 633;
+}
+);
+unicode = 308;
+}

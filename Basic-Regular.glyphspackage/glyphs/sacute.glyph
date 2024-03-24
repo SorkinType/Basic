@@ -1,0 +1,45 @@
+{
+glyphname = sacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (29,0);
+ref = acute;
+}
+);
+width = 911;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (29,0);
+ref = acute;
+}
+);
+width = 911;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (29,0);
+ref = acute;
+}
+);
+width = 911;
+}
+);
+unicode = 347;
+}

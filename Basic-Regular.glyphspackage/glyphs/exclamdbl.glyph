@@ -1,0 +1,48 @@
+{
+glyphname = exclamdbl;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (20,0);
+ref = exclam;
+},
+{
+pos = (439,0);
+ref = exclam;
+}
+);
+width = 911;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (20,0);
+ref = exclam;
+},
+{
+pos = (439,0);
+ref = exclam;
+}
+);
+width = 911;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (20,0);
+ref = exclam;
+},
+{
+pos = (439,0);
+ref = exclam;
+}
+);
+width = 911;
+}
+);
+unicode = 8252;
+}

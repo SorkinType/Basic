@@ -1,0 +1,45 @@
+{
+glyphname = Uring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (382,0);
+ref = ring.cap;
+}
+);
+width = 1241;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (382,0);
+ref = ring.cap;
+}
+);
+width = 1241;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (382,0);
+ref = ring.cap;
+}
+);
+width = 1241;
+}
+);
+unicode = 366;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = caroncomb.alt;
+layers = (
+{
+layerId = m001;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+}

@@ -1,0 +1,45 @@
+{
+glyphname = Wacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (635,0);
+ref = acute.cap;
+}
+);
+width = 1735;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (635,0);
+ref = acute.cap;
+}
+);
+width = 1735;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (635,0);
+ref = acute.cap;
+}
+);
+width = 1735;
+}
+);
+unicode = 7810;
+}

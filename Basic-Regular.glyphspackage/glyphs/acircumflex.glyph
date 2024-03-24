@@ -1,0 +1,45 @@
+{
+glyphname = acircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (11,0);
+ref = circumflex;
+}
+);
+width = 992;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (11,0);
+ref = circumflex;
+}
+);
+width = 992;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (11,0);
+ref = circumflex;
+}
+);
+width = 992;
+}
+);
+unicode = 226;
+}

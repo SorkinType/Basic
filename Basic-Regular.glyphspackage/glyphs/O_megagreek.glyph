@@ -1,0 +1,66 @@
+{
+glyphname = Omegagreek;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Omega;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 860;
+y = 0;
+}
+);
+};
+width = 1534;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 860;
+y = 0;
+}
+);
+};
+width = 1534;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Omega;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 860;
+y = 0;
+}
+);
+};
+width = 1534;
+}
+);
+unicode = 937;
+}

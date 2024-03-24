@@ -1,0 +1,60 @@
+{
+glyphname = f_f_l;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = f;
+},
+{
+pos = (1377,0);
+ref = l;
+}
+);
+width = 1857;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = f;
+},
+{
+pos = (1377,0);
+ref = l;
+}
+);
+width = 1857;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = f;
+},
+{
+pos = (1377,0);
+ref = l;
+}
+);
+width = 1857;
+}
+);
+unicode = 64260;
+}

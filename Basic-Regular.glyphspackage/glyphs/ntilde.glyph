@@ -1,0 +1,45 @@
+{
+glyphname = ntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (175,0);
+ref = tilde;
+}
+);
+width = 1148;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (175,0);
+ref = tilde;
+}
+);
+width = 1148;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (175,0);
+ref = tilde;
+}
+);
+width = 1148;
+}
+);
+unicode = 241;
+}

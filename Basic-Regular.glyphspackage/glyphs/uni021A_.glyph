@@ -1,0 +1,45 @@
+{
+glyphname = uni021A;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (231,0);
+ref = commaaccent;
+}
+);
+width = 963;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (231,0);
+ref = commaaccent;
+}
+);
+width = 963;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (231,0);
+ref = commaaccent;
+}
+);
+width = 963;
+}
+);
+unicode = 538;
+}

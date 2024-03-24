@@ -1,0 +1,48 @@
+{
+glyphname = fi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = i;
+}
+);
+width = 1205;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = i;
+}
+);
+width = 1205;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-3,0);
+ref = f;
+},
+{
+pos = (687,0);
+ref = i;
+}
+);
+width = 1205;
+}
+);
+unicode = 64257;
+}

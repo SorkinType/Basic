@@ -1,0 +1,39 @@
+{
+glyphname = greater;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1435,30);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1435;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (1435,30);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1435;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (1435,30);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 1435;
+}
+);
+unicode = 62;
+}

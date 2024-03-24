@@ -1,0 +1,17 @@
+{
+glyphname = idotaccent;
+layers = (
+{
+layerId = m001;
+width = 1200;
+},
+{
+layerId = m002;
+width = 1200;
+},
+{
+layerId = m003;
+width = 1200;
+}
+);
+}

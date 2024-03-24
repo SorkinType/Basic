@@ -1,0 +1,33 @@
+{
+glyphname = Deltagreek;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 1532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 1532;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 1532;
+}
+);
+unicode = 916;
+}

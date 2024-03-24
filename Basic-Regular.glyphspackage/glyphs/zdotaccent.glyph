@@ -1,0 +1,45 @@
+{
+glyphname = zdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (191,0);
+ref = dotaccent;
+}
+);
+width = 884;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (191,0);
+ref = dotaccent;
+}
+);
+width = 884;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (191,0);
+ref = dotaccent;
+}
+);
+width = 884;
+}
+);
+unicode = 380;
+}

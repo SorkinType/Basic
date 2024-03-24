@@ -1,0 +1,135 @@
+{
+glyphname = l;
+layers = (
+{
+anchors = (
+{
+name = btm;
+pos = (240,-157);
+},
+{
+name = top;
+pos = (240,1713);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,49,o),
+(199,0,o),
+(331,0,c),
+(331,2,l),
+(333,0,l),
+(390,0,l),
+(390,126,l),
+(331,168,l),
+(331,1439,l),
+(124,1439,l),
+(124,172,ls)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = -548;
+y = 0;
+}
+);
+};
+width = 483;
+},
+{
+anchors = (
+{
+name = btm;
+pos = (240,-157);
+},
+{
+name = top;
+pos = (240,1713);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,49,o),
+(199,0,o),
+(331,0,c),
+(331,2,l),
+(333,0,l),
+(390,0,l),
+(390,126,l),
+(331,168,l),
+(331,1439,l),
+(124,1439,l),
+(124,172,ls)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = -548;
+y = 0;
+}
+);
+};
+width = 483;
+},
+{
+anchors = (
+{
+name = btm;
+pos = (240,-157);
+},
+{
+name = top;
+pos = (240,1713);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,49,o),
+(199,0,o),
+(331,0,c),
+(331,2,l),
+(333,0,l),
+(390,0,l),
+(390,126,l),
+(331,168,l),
+(331,1439,l),
+(124,1439,l),
+(124,172,ls)
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = -548;
+y = 0;
+}
+);
+};
+width = 483;
+}
+);
+unicode = 108;
+}

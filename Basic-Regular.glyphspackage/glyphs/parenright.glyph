@@ -1,0 +1,39 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (604,1274);
+ref = parenleft;
+}
+);
+width = 604;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (604,1274);
+ref = parenleft;
+}
+);
+width = 604;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (604,1274);
+ref = parenleft;
+}
+);
+width = 604;
+}
+);
+unicode = 41;
+}

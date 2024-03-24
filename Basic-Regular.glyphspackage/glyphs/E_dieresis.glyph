@@ -1,0 +1,45 @@
+{
+glyphname = Edieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (315,0);
+ref = dieresis.cap;
+}
+);
+width = 1019;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (315,0);
+ref = dieresis.cap;
+}
+);
+width = 1019;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (315,0);
+ref = dieresis.cap;
+}
+);
+width = 1019;
+}
+);
+unicode = 203;
+}

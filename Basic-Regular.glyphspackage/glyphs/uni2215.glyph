@@ -1,0 +1,39 @@
+{
+glyphname = uni2215;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (861,0);
+ref = backslash;
+scale = (-1,1);
+}
+);
+width = 861;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (861,0);
+ref = backslash;
+scale = (-1,1);
+}
+);
+width = 861;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (861,0);
+ref = backslash;
+scale = (-1,1);
+}
+);
+width = 861;
+}
+);
+unicode = 8725;
+}

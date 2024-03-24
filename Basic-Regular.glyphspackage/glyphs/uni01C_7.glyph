@@ -1,0 +1,45 @@
+{
+glyphname = uni01C7;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (987,0);
+ref = J;
+}
+);
+width = 1620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (987,0);
+ref = J;
+}
+);
+width = 1620;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (987,0);
+ref = J;
+}
+);
+width = 1620;
+}
+);
+unicode = 455;
+}

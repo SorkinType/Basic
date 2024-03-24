@@ -1,0 +1,45 @@
+{
+glyphname = napostrophe;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (344,0);
+ref = commaaccent;
+}
+);
+width = 1148;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (344,0);
+ref = commaaccent;
+}
+);
+width = 1148;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (344,0);
+ref = commaaccent;
+}
+);
+width = 1148;
+}
+);
+unicode = 329;
+}

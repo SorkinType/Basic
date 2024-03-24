@@ -1,0 +1,45 @@
+{
+glyphname = ldot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (517,0);
+ref = periodcentered;
+}
+);
+width = 1019;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (517,0);
+ref = periodcentered;
+}
+);
+width = 1019;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (517,0);
+ref = periodcentered;
+}
+);
+width = 1019;
+}
+);
+unicode = 320;
+}
